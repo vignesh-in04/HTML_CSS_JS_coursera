@@ -1,4 +1,3 @@
 # OUTPUT FOR MODULE 3 ASSIGNMENT
 
-https://htmlpreview.github.io/?https://github.com/vignesh-in04/HTML_CSS_JS_coursera/blob/main/mod3_solutions/index.html
-
+[OUTPUT](https://htmlpreview.github.io/?https://github.com/vignesh-in04/HTML_CSS_JS_coursera/blob/main/mod3_solutions/index.html)
